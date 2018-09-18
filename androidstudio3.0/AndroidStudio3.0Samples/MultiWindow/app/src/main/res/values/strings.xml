@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiWindow</string>
+    <string name="launch">Launch</string>
+    <string name="second_activity">Second Activity</string>
+</resources>

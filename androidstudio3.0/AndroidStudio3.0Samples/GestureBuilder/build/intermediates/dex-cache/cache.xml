@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neil\Documents\Books\Android Studio 2.3 - A7\AndroidStudioA7Samples\GestureBuilder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3844ca6612098914d52b70d3fe81cd1d1c60a515">
+        <dex dex="C:\Users\Neil\Documents\Books\Android Studio 2.3 - A7\AndroidStudioA7Samples\GestureBuilder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_81b42ac1019fbeae70d298c2f10b85445c537430\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neil\Documents\Books\Android Studio 2.3 - A7\AndroidStudioA7Samples\GestureBuilder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fbdfef027f19939820542e6080e06ad9c1f8d21">
+        <dex dex="C:\Users\Neil\Documents\Books\Android Studio 2.3 - A7\AndroidStudioA7Samples\GestureBuilder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_53bfefa6f0f659fb5826efc575356fafc07d6bf5\classes.dex" />
+    </item>
+
+</items>
